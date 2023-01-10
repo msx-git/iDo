@@ -4,5 +4,5 @@ Beautifully designed ToDo app for tracking todos.
 # Screenshots
 1 - https://user-images.githubusercontent.com/93339658/211589099-8199da01-367e-4aed-96ed-01f23566c074.gif
 
-2 - https://user-images.githubusercontent.com/93339658/211592045-9737051b-5d78-4d27-8561-f8728da12fee.mp4
-
+<img src="https://user-images.githubusercontent.com/93339658/211589099-8199da01-367e-4aed-96ed-01f23566c074.gif
+" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
