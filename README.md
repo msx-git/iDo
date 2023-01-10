@@ -1,7 +1,4 @@
 # iDo
 Beautifully designed ToDo app for tracking todos.
 
-
-
-https://user-images.githubusercontent.com/93339658/211587119-3e56e4d4-197c-4ece-b6c2-59f9bf1c3829.mp4
-
+![entry](https://user-images.githubusercontent.com/93339658/211589099-8199da01-367e-4aed-96ed-01f23566c074.gif)
